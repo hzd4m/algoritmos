@@ -1,4 +1,4 @@
-# Questão Extra — Luan e as Barracas da UESPI
+# Luan e as Barracas da UESPI
 
 Durante a semana de revisão na UESPI, Luan resolveu ajudar na organização das barracas de lanche espalhadas pelo campus.
 

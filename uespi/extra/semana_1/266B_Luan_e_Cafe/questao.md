@@ -13,6 +13,8 @@ Simulação.
 - Troca de caracteres
 - Interpretação ad-hoc
 
+
+
 ## Enunciado
 
 Na UESPI, Luan decidiu organizar a fila do café antes da aula de programação competitiva.
