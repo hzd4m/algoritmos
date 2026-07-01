@@ -7,6 +7,7 @@ void entrada(){
 }
 
 int main(){
+    entrada();
     int n,t;
     cin >> n >> t;
     string s;
