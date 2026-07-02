@@ -1,6 +1,7 @@
 # 🥛 Mixing Milk (Misturando Leite)
 **Créditos:** Brian Dean (USACO December 2018 Bronze Problem 1)
-**Categoria:** Simulação
+**Categoria:** Simulação 
+https://usaco.org/index.php?page=viewproblem2&cpid=855
 
 ## 📝 Descrição do Problema
 
